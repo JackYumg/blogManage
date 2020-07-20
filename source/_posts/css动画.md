@@ -8,7 +8,7 @@
 ![](https://image-static.segmentfault.com/343/278/3432781490-5e96bf0e37e05_articlex)
 
 
-[https://angular-t4cuvf.stackblitz.io/](https://angular-t4cuvf.stackblitz.io/)
+[https://angular-t4cuvf.stackblitz.io/](https://angular-6mxwve.stackblitz.io/)
 
 这个加载动画在其他地方看到过
 
